@@ -1,0 +1,5 @@
+name: lintangdart
+version: 0.0.1
+description: dart fundamentals
+dependencies:
+  path: any

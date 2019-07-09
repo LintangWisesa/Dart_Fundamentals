@@ -1,0 +1,13 @@
+INSTALLATION
+
+1. Install chocolatey
+    - https://chocolatey.org/
+    - open cmd as administrator, then follow the instructions
+
+2. Install Dart
+    - https://v1-dartlang-org.firebaseapp.com/install/windows
+    - open cmd as administrator
+    - $ choco install dart-sdk -version 2.4.0
+
+3. run on cmd: 
+    - $ dart filename.dart
